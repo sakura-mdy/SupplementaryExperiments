@@ -25,7 +25,7 @@ We conducted experiments on three different types of graphs to demonstrate the e
         <tr><td>120</td><td>77</td><td>169</td><td>224</td><td>278</td><td>278</td></tr>
         <tr><td>140</td><td>77</td><td>177</td><td>252</td><td>299</td><td>298</td></tr>
         <tr><td>160</td><td>77</td><td>185</td><td>299</td><td>323</td><td>322</td></tr>
-        <tr><td>180</td><td>77</td><td>190</td><td>311</td><td>350</td><td>348</td></tr>
+        <tr><td>180</td><td>77</td><td>191</td><td>311</td><td>350</td><td>348</td></tr>
         <tr><td>200</td><td>77</td><td>198</td><td>333</td><td>373</td><td>373</td></tr>
       </tbody>
     </table>
