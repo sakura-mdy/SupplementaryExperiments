@@ -179,10 +179,11 @@ It is important to note that the variation of $k$ is not directly related to the
 ## 4.case study
 In this paper, core maximization will be applied to a collaboration network, which is a connected component with 14 nodes extracted from the ca-GrQc dataset. The edges in the network represent co-authorship between authors, meaning they have worked together on a paper. Our objective is to strengthen a specific $k$-core by adding new edges, which increases interactions between authors. This not only helps improve connectivity within the network, but also fosters closer collaboration among authors, ultimately reinforcing a particular research focus or area. We set $k = 4$ and $b = 4$. Initially, the size of the 4-core is 6. By applying our algorithm, the size of the 4-core increases to 12, as shown in the figure below:
 
+### Initial Network Graph and 4-core
 ![Initial Network Graph](case_before.png)
-*Initial Network Graph and 4-core*
 
+### Graph after applying DSG PG and 4-core
 ![Graph after DSG PG](case_after.png)
-*Graph after applying DSG PG and 4-core*
+
 
 
