@@ -1,3 +1,4 @@
+# Here, we conduct experiments using three different types of datasets to ensure the reliability of the experiments: social network (Facebook), communication networks (email-Enron), and web graphs (Stanford).
 ## 1.Effectiveness evaluation by varying budget b.
 We conducted experiments on three different types of graphs to demonstrate the effectiveness of our approach, fixing $k=20$ while varying $b$, as follows:
 ### Table 1: Facebook
