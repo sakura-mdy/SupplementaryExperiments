@@ -104,6 +104,7 @@ We conducted experiments on three different types of graphs to demonstrate the e
     <img src="Stanford.png" alt="Table 3 Line Chart" style="max-width: 100%; height: auto;">
   </div>
 </div>
+
 Our algorithm performs optimally in all scenarios. Furthermore, as $b$ increases, the advantage of our method over **FastCM** and **FastCM+** becomes more apparent. This is because, with the increase of $b$, the number of candidate $\lambda$-shell components gradually increases, and the number of edges spanning across these components also grows. Our algorithm can effectively utilize these additional edges, which previous algorithms could not exploit. Additionally, we observed that the performance of **DSG PG+** is comparable to that of **DSG PG**, which further validates the effectiveness of our offline storage strategy.
 
 
