@@ -182,7 +182,7 @@ In this paper, core maximization will be applied to a collaboration network, whi
 ![Initial Network Graph](case_before.png)
 *Initial Network Graph and 4-core*
 
-![Graph after DSG PG](https://www.example.com/case_after.png)
+![Graph after DSG PG](case_after.png)
 *Graph after applying DSG PG and 4-core*
 
 
