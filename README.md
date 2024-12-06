@@ -92,7 +92,7 @@ We conducted experiments on three different types of graphs to demonstrate the e
         <tr><td>20</td><td>195</td><td>174</td><td>185</td><td>190</td><td>192</td></tr>
         <tr><td>40</td><td>330</td><td>324</td><td>285</td><td>289</td><td>249</td></tr>
         <tr><td>60</td><td>430</td><td>423</td><td>442</td><td>446</td><td>450</td></tr>
-        <tr><td>80</td><td>496</td><td>486</td><td>530</td><td>538</td><td>538</td></tr>
+        <tr><td>80</td><td>496</td><td>496</td><td>530</td><td>538</td><td>538</td></tr>
         <tr><td>100</td><td>580</td><td>563</td><td>598</td><td>606</td><td>606</td></tr>
         <tr><td>120</td><td>622</td><td>622</td><td>682</td><td>687</td><td>690</td></tr>
         <tr><td>140</td><td>667</td><td>668</td><td>750</td><td>768</td><td>768</td></tr>
